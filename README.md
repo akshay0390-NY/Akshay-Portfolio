@@ -1,11 +1,25 @@
-Hi there! I'm Akshay Singh, currently pursuing a Master's degree in Quantitative Finance and Fintech at the University at Buffalo. My passion lies at the intersection of finance, technology, and data analysis, and I am eager to leverage my skills to drive innovation in these fields.
+[![Stars](https://img.shields.io/github/stars/akshay0390-NY/Akshay-Portfolio?style=social)](https://github.com/akshay0390-NY/Akshay-Portfolio)
 
-At the University at Buffalo, I am immersed in an intensive curriculum that covers advanced financial theories, quantitative methods, and cutting-edge financial technologies. My coursework includes financial modeling, data analytics, blockchain technology, and machine learning applications in finance, providing me with a robust foundation to tackle complex financial problems.
+# Akshay's Quant Finance & Risk Portfolio
 
-This portfolio showcases a range of financial models and quantitative analyses, highlighting my ability to apply theoretical knowledge to practical problems. You will find detailed projects that demonstrate my proficiency in various analytical tools and techniques. Through these projects, I have explored different facets of finance, from risk assessment and portfolio management to predictive modeling and data visualization.
+**Senior Financial Analyst** | Credit Risk | Quant  
+BNY Mellon | CCAR/Basel | MS Financial Math  
+📍 Buffalo | [LinkedIn](https://www.linkedin.com/in/akshay-singh-645821115) | [singh57@buffalo.edu](mailto:singh57@buffalo.edu) | [akshaysingh0345@gmail.com](mailto:akshaysingh0345@gmail.com)  
 
-Prior to my graduate studies, I gained valuable experience as a Credit Risk Analyst, where I developed and implemented credit risk models to predict the probability of default, conducted thorough financial analysis, and created detailed reports that supported strategic decision-making. My role involved managing significant financial data, automating reporting processes, and improving operational efficiencies, all of which have honed my expertise in data management and financial analysis.
+Portfolio optimization • Fixed income • Sentiment analysis.
 
-You can reach out to me at <singh57@buffalo.edu> or <akshaysingh0345@gmail.com>
+## Projects
 
-LinkedIn: <https://www.linkedin.com/in/akshay-singh-645821115?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnfDOQDq5Q4WSVN3u1bGehA%3D%3D>
+| Project | Description | Tech | Preview |
+|---------|-------------|------|---------|
+| [🧮 Black-Litterman](BlackLitterman%20and%20Mean%20Variance%20comparison.ipynb) | BL vs MVO | Python [web:48] | [View](BlackLitterman%20and%20Mean%20Variance%20comparison.ipynb) |
+| [📈 Fixed Income](Fixed%20Income%20Bond%20Analytics.xlsx) | Bonds/yields/REPO | Excel/VBA | [🖥️ Live](https://1drv.ms/x/c/5d1b5fe4de18ec4d/IQBR2pL-3pwASrQjw4K83TKYATbYtVVV1m8svrB6S6z5Zwk?e=vqRcGz) |
+| [📊 Nvidia Sentiment](Sentiment%20Analysis%20for%20Nvidia.ipynb) | NLP signals | Python/NLP | [View](Sentiment%20Analysis%20for%20Nvidia.ipynb) |
+
+**Stack**: Excel(VBA/SQL/Anaplan) • Tableau • Jupyter • CCAR/PFE  
+
+## Run It
+```bash
+git clone https://github.com/akshay0390-NY/Akshay-Portfolio
+cd Akshay-Portfolio
+jupyter notebook
